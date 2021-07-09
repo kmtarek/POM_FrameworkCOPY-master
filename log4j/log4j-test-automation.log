@@ -1,0 +1,312 @@
+[INFO ] 2021-07-02 23:40:30.796 [main] Log - I am in onStart method POMframeworkWithExtentReport
+[INFO ] 2021-07-02 23:40:30.886 [main] Log - test is starting ....
+[INFO ] 2021-07-02 23:40:35.785 [main] Log - invalid_emailAndPassword_LoginTest1 test is starting.
+[INFO ] 2021-07-02 23:40:36.561 [main] Log - go to opencart home page
+[INFO ] 2021-07-02 23:40:38.432 [main] Log - go to login page 
+[INFO ] 2021-07-02 23:40:39.875 [main] Log - trying to log-in
+[INFO ] 2021-07-02 23:40:41.742 [main] Log - verifying login
+[INFO ] 2021-07-02 23:40:42.208 [main] Log - invalid_emailAndPassword_LoginTest1 test is skipped.
+[INFO ] 2021-07-02 23:40:42.213 [main] Log - invalid_emailAndPassword_LoginTest1 test is starting.
+[INFO ] 2021-07-02 23:40:42.215 [main] Log - go to opencart home page
+[INFO ] 2021-07-02 23:40:43.492 [main] Log - go to login page 
+[INFO ] 2021-07-02 23:40:44.938 [main] Log - trying to log-in
+[INFO ] 2021-07-02 23:40:46.681 [main] Log - verifying login
+[INFO ] 2021-07-02 23:40:46.817 [main] Log - invalid_emailAndPassword_LoginTest1 test is failed.
+[INFO ] 2021-07-02 23:40:47.109 [main] Log - testPrint test is starting.
+[INFO ] 2021-07-02 23:40:47.124 [main] Log - testPrint test is succeed.
+[INFO ] 2021-07-02 23:40:47.127 [main] Log - invalid_emailAndPassword_LoginTest2 test is starting.
+[INFO ] 2021-07-02 23:40:47.128 [main] Log - go to opencart home page
+[INFO ] 2021-07-02 23:40:48.503 [main] Log - go to login page 
+[INFO ] 2021-07-02 23:40:50.002 [main] Log - trying to log-in
+[INFO ] 2021-07-02 23:40:51.829 [main] Log - verifying login
+[INFO ] 2021-07-02 23:40:52.372 [main] Log - invalid_emailAndPassword_LoginTest2 test is skipped.
+[INFO ] 2021-07-02 23:40:52.375 [main] Log - invalid_emailAndPassword_LoginTest2 test is starting.
+[INFO ] 2021-07-02 23:40:52.376 [main] Log - go to opencart home page
+[INFO ] 2021-07-02 23:40:53.745 [main] Log - go to login page 
+[INFO ] 2021-07-02 23:40:55.207 [main] Log - trying to log-in
+[INFO ] 2021-07-02 23:40:57.198 [main] Log - verifying login
+[INFO ] 2021-07-02 23:40:57.330 [main] Log - invalid_emailAndPassword_LoginTest2 test is failed.
+[INFO ] 2021-07-02 23:40:57.627 [main] Log - invalid_emailAndPassword_LoginTest3 test is starting.
+[INFO ] 2021-07-02 23:40:57.628 [main] Log - go to opencart home page
+[INFO ] 2021-07-02 23:40:59.023 [main] Log - go to login page 
+[INFO ] 2021-07-02 23:41:00.467 [main] Log - trying to log-in
+[INFO ] 2021-07-02 23:41:02.226 [main] Log - verifying login
+[INFO ] 2021-07-02 23:41:02.899 [main] Log - invalid_emailAndPassword_LoginTest3 test is skipped.
+[INFO ] 2021-07-02 23:41:02.902 [main] Log - invalid_emailAndPassword_LoginTest3 test is starting.
+[INFO ] 2021-07-02 23:41:02.903 [main] Log - go to opencart home page
+[INFO ] 2021-07-02 23:41:04.248 [main] Log - go to login page 
+[INFO ] 2021-07-02 23:41:05.664 [main] Log - trying to log-in
+[INFO ] 2021-07-02 23:41:07.476 [main] Log - verifying login
+[INFO ] 2021-07-02 23:41:07.598 [main] Log - invalid_emailAndPassword_LoginTest3 test is failed.
+[INFO ] 2021-07-02 23:41:07.879 [main] Log - valid_emailAndPassword_LoginTest test is starting.
+[INFO ] 2021-07-02 23:41:07.880 [main] Log - go to opencart home page
+[INFO ] 2021-07-02 23:41:09.180 [main] Log - go to login page 
+[INFO ] 2021-07-02 23:41:10.612 [main] Log - trying to log-in
+[INFO ] 2021-07-02 23:41:13.430 [main] Log - verifying login
+[INFO ] 2021-07-02 23:41:13.908 [main] Log - valid_emailAndPassword_LoginTest test is skipped.
+[INFO ] 2021-07-02 23:41:13.912 [main] Log - valid_emailAndPassword_LoginTest test is starting.
+[INFO ] 2021-07-02 23:41:13.914 [main] Log - go to opencart home page
+[INFO ] 2021-07-02 23:41:15.263 [main] Log - go to login page 
+[INFO ] 2021-07-02 23:41:15.422 [main] Log - valid_emailAndPassword_LoginTest test is failed.
+[INFO ] 2021-07-02 23:41:16.085 [main] Log - test ended...
+[INFO ] 2021-07-02 23:41:16.204 [main] Log - I am in onFinish method POMframeworkWithExtentReport
+[INFO ] 2021-07-09 15:19:07.598 [main] Log - I am in onStart method POMframeworkWithExtentReport
+[INFO ] 2021-07-09 15:19:07.638 [main] Log - test is starting ....
+[INFO ] 2021-07-09 15:19:11.289 [main] Log - invalid_emailAndPassword_LoginTest1 test is starting.
+[INFO ] 2021-07-09 15:19:12.057 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 15:19:22.379 [main] Log - go to login page 
+[INFO ] 2021-07-09 15:19:22.551 [main] Log - invalid_emailAndPassword_LoginTest1 test is skipped.
+[INFO ] 2021-07-09 15:19:22.553 [main] Log - invalid_emailAndPassword_LoginTest1 test is starting.
+[INFO ] 2021-07-09 15:19:22.553 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 15:19:24.294 [main] Log - go to login page 
+[INFO ] 2021-07-09 15:19:24.350 [main] Log - invalid_emailAndPassword_LoginTest1 test is failed.
+[INFO ] 2021-07-09 15:19:24.479 [main] Log - testPrint test is starting.
+[INFO ] 2021-07-09 15:19:24.495 [main] Log - testPrint test is succeed.
+[INFO ] 2021-07-09 15:19:24.496 [main] Log - invalid_emailAndPassword_LoginTest2 test is starting.
+[INFO ] 2021-07-09 15:19:24.496 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 15:19:25.908 [main] Log - go to login page 
+[INFO ] 2021-07-09 15:19:26.070 [main] Log - invalid_emailAndPassword_LoginTest2 test is skipped.
+[INFO ] 2021-07-09 15:19:26.072 [main] Log - invalid_emailAndPassword_LoginTest2 test is starting.
+[INFO ] 2021-07-09 15:19:26.073 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 15:19:27.492 [main] Log - go to login page 
+[INFO ] 2021-07-09 15:19:27.592 [main] Log - invalid_emailAndPassword_LoginTest2 test is failed.
+[INFO ] 2021-07-09 15:19:27.785 [main] Log - invalid_emailAndPassword_LoginTest3 test is starting.
+[INFO ] 2021-07-09 15:19:27.786 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 15:19:29.770 [main] Log - go to login page 
+[INFO ] 2021-07-09 15:19:29.944 [main] Log - invalid_emailAndPassword_LoginTest3 test is skipped.
+[INFO ] 2021-07-09 15:19:29.947 [main] Log - invalid_emailAndPassword_LoginTest3 test is starting.
+[INFO ] 2021-07-09 15:19:29.947 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 15:19:31.601 [main] Log - go to login page 
+[INFO ] 2021-07-09 15:19:31.627 [main] Log - invalid_emailAndPassword_LoginTest3 test is failed.
+[INFO ] 2021-07-09 15:19:31.771 [main] Log - valid_emailAndPassword_LoginTest test is starting.
+[INFO ] 2021-07-09 15:19:31.773 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 15:19:33.148 [main] Log - go to login page 
+[INFO ] 2021-07-09 15:19:33.292 [main] Log - valid_emailAndPassword_LoginTest test is skipped.
+[INFO ] 2021-07-09 15:19:33.293 [main] Log - valid_emailAndPassword_LoginTest test is starting.
+[INFO ] 2021-07-09 15:19:33.293 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 15:19:34.728 [main] Log - go to login page 
+[INFO ] 2021-07-09 15:19:34.773 [main] Log - valid_emailAndPassword_LoginTest test is failed.
+[INFO ] 2021-07-09 15:19:34.891 [main] Log - test ended...
+[INFO ] 2021-07-09 15:19:35.007 [main] Log - I am in onFinish method POMframeworkWithExtentReport
+[INFO ] 2021-07-09 15:28:27.899 [main] Log - I am in onStart method POMframeworkWithExtentReport
+[INFO ] 2021-07-09 15:28:27.938 [main] Log - test is starting ....
+[INFO ] 2021-07-09 15:28:31.720 [main] Log - invalid_emailAndPassword_LoginTest1 test is starting.
+[INFO ] 2021-07-09 15:28:32.447 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 15:28:34.487 [main] Log - go to login page 
+[INFO ] 2021-07-09 15:28:34.668 [main] Log - invalid_emailAndPassword_LoginTest1 test is skipped.
+[INFO ] 2021-07-09 15:28:34.670 [main] Log - invalid_emailAndPassword_LoginTest1 test is starting.
+[INFO ] 2021-07-09 15:28:34.670 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 15:28:36.031 [main] Log - go to login page 
+[INFO ] 2021-07-09 15:28:36.086 [main] Log - invalid_emailAndPassword_LoginTest1 test is failed.
+[INFO ] 2021-07-09 15:28:36.232 [main] Log - testPrint test is starting.
+[INFO ] 2021-07-09 15:28:36.247 [main] Log - testPrint test is succeed.
+[INFO ] 2021-07-09 15:28:36.253 [main] Log - invalid_emailAndPassword_LoginTest2 test is starting.
+[INFO ] 2021-07-09 15:28:36.254 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 15:28:37.944 [main] Log - go to login page 
+[INFO ] 2021-07-09 15:28:38.112 [main] Log - invalid_emailAndPassword_LoginTest2 test is skipped.
+[INFO ] 2021-07-09 15:28:38.113 [main] Log - invalid_emailAndPassword_LoginTest2 test is starting.
+[INFO ] 2021-07-09 15:28:38.113 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 15:28:39.539 [main] Log - go to login page 
+[INFO ] 2021-07-09 15:28:39.572 [main] Log - invalid_emailAndPassword_LoginTest2 test is failed.
+[INFO ] 2021-07-09 15:28:39.682 [main] Log - invalid_emailAndPassword_LoginTest3 test is starting.
+[INFO ] 2021-07-09 15:28:39.682 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 15:28:41.078 [main] Log - go to login page 
+[INFO ] 2021-07-09 15:28:41.226 [main] Log - invalid_emailAndPassword_LoginTest3 test is skipped.
+[INFO ] 2021-07-09 15:28:41.227 [main] Log - invalid_emailAndPassword_LoginTest3 test is starting.
+[INFO ] 2021-07-09 15:28:41.227 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 15:28:42.649 [main] Log - go to login page 
+[INFO ] 2021-07-09 15:28:42.681 [main] Log - invalid_emailAndPassword_LoginTest3 test is failed.
+[INFO ] 2021-07-09 15:28:42.802 [main] Log - valid_emailAndPassword_LoginTest test is starting.
+[INFO ] 2021-07-09 15:28:42.803 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 15:28:45.794 [main] Log - go to login page 
+[INFO ] 2021-07-09 15:28:45.964 [main] Log - valid_emailAndPassword_LoginTest test is skipped.
+[INFO ] 2021-07-09 15:28:45.965 [main] Log - valid_emailAndPassword_LoginTest test is starting.
+[INFO ] 2021-07-09 15:28:45.966 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 15:28:47.505 [main] Log - go to login page 
+[INFO ] 2021-07-09 15:28:47.540 [main] Log - valid_emailAndPassword_LoginTest test is failed.
+[INFO ] 2021-07-09 15:28:47.649 [main] Log - test ended...
+[INFO ] 2021-07-09 15:28:47.778 [main] Log - I am in onFinish method POMframeworkWithExtentReport
+[INFO ] 2021-07-09 15:32:48.021 [main] Log - I am in onStart method POMframeworkWithExtentReport
+[INFO ] 2021-07-09 15:32:48.052 [main] Log - test is starting ....
+[INFO ] 2021-07-09 15:32:51.817 [main] Log - invalid_emailAndPassword_LoginTest1 test is starting.
+[INFO ] 2021-07-09 15:32:52.275 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 15:32:54.062 [main] Log - go to login page 
+[INFO ] 2021-07-09 15:32:54.216 [main] Log - invalid_emailAndPassword_LoginTest1 test is skipped.
+[INFO ] 2021-07-09 15:32:54.219 [main] Log - invalid_emailAndPassword_LoginTest1 test is starting.
+[INFO ] 2021-07-09 15:32:54.220 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 15:32:55.591 [main] Log - go to login page 
+[INFO ] 2021-07-09 15:32:55.655 [main] Log - invalid_emailAndPassword_LoginTest1 test is failed.
+[INFO ] 2021-07-09 15:32:55.781 [main] Log - testPrint test is starting.
+[INFO ] 2021-07-09 15:32:55.805 [main] Log - testPrint test is succeed.
+[INFO ] 2021-07-09 15:32:55.805 [main] Log - invalid_emailAndPassword_LoginTest2 test is starting.
+[INFO ] 2021-07-09 15:32:55.806 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 15:32:57.178 [main] Log - go to login page 
+[INFO ] 2021-07-09 15:32:57.325 [main] Log - invalid_emailAndPassword_LoginTest2 test is skipped.
+[INFO ] 2021-07-09 15:32:57.327 [main] Log - invalid_emailAndPassword_LoginTest2 test is starting.
+[INFO ] 2021-07-09 15:32:57.327 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 15:32:58.716 [main] Log - go to login page 
+[INFO ] 2021-07-09 15:32:58.750 [main] Log - invalid_emailAndPassword_LoginTest2 test is failed.
+[INFO ] 2021-07-09 15:32:58.879 [main] Log - invalid_emailAndPassword_LoginTest3 test is starting.
+[INFO ] 2021-07-09 15:32:58.880 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 15:33:00.252 [main] Log - go to login page 
+[INFO ] 2021-07-09 15:33:00.399 [main] Log - invalid_emailAndPassword_LoginTest3 test is skipped.
+[INFO ] 2021-07-09 15:33:00.400 [main] Log - invalid_emailAndPassword_LoginTest3 test is starting.
+[INFO ] 2021-07-09 15:33:00.401 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 15:33:01.805 [main] Log - go to login page 
+[INFO ] 2021-07-09 15:33:01.841 [main] Log - invalid_emailAndPassword_LoginTest3 test is failed.
+[INFO ] 2021-07-09 15:33:01.952 [main] Log - valid_emailAndPassword_LoginTest test is starting.
+[INFO ] 2021-07-09 15:33:01.952 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 15:33:03.366 [main] Log - go to login page 
+[INFO ] 2021-07-09 15:33:03.515 [main] Log - valid_emailAndPassword_LoginTest test is skipped.
+[INFO ] 2021-07-09 15:33:03.516 [main] Log - valid_emailAndPassword_LoginTest test is starting.
+[INFO ] 2021-07-09 15:33:03.517 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 15:33:04.921 [main] Log - go to login page 
+[INFO ] 2021-07-09 15:33:04.971 [main] Log - valid_emailAndPassword_LoginTest test is failed.
+[INFO ] 2021-07-09 15:33:05.098 [main] Log - test ended...
+[INFO ] 2021-07-09 15:33:05.214 [main] Log - I am in onFinish method POMframeworkWithExtentReport
+[INFO ] 2021-07-09 15:53:48.685 [main] Log - I am in onStart method POMframeworkWithExtentReport
+[INFO ] 2021-07-09 15:53:48.716 [main] Log - test is starting ....
+[INFO ] 2021-07-09 15:53:52.117 [main] Log - invalid_emailAndPassword_LoginTest1 test is starting.
+[INFO ] 2021-07-09 15:53:52.411 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 15:53:54.189 [main] Log - go to login page 
+[INFO ] 2021-07-09 15:53:54.342 [main] Log - invalid_emailAndPassword_LoginTest1 test is skipped.
+[INFO ] 2021-07-09 15:53:54.344 [main] Log - invalid_emailAndPassword_LoginTest1 test is starting.
+[INFO ] 2021-07-09 15:53:54.344 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 15:53:55.724 [main] Log - go to login page 
+[INFO ] 2021-07-09 15:53:55.769 [main] Log - invalid_emailAndPassword_LoginTest1 test is failed.
+[INFO ] 2021-07-09 15:53:55.896 [main] Log - testPrint test is starting.
+[INFO ] 2021-07-09 15:53:55.913 [main] Log - testPrint test is succeed.
+[INFO ] 2021-07-09 15:53:55.914 [main] Log - invalid_emailAndPassword_LoginTest2 test is starting.
+[INFO ] 2021-07-09 15:53:55.914 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 15:53:57.360 [main] Log - go to login page 
+[INFO ] 2021-07-09 15:53:57.514 [main] Log - invalid_emailAndPassword_LoginTest2 test is skipped.
+[INFO ] 2021-07-09 15:53:57.515 [main] Log - invalid_emailAndPassword_LoginTest2 test is starting.
+[INFO ] 2021-07-09 15:53:57.516 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 15:53:58.877 [main] Log - go to login page 
+[INFO ] 2021-07-09 15:53:58.912 [main] Log - invalid_emailAndPassword_LoginTest2 test is failed.
+[INFO ] 2021-07-09 15:53:59.040 [main] Log - invalid_emailAndPassword_LoginTest3 test is starting.
+[INFO ] 2021-07-09 15:53:59.040 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 15:54:00.372 [main] Log - go to login page 
+[INFO ] 2021-07-09 15:54:00.520 [main] Log - invalid_emailAndPassword_LoginTest3 test is skipped.
+[INFO ] 2021-07-09 15:54:00.521 [main] Log - invalid_emailAndPassword_LoginTest3 test is starting.
+[INFO ] 2021-07-09 15:54:00.522 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 15:54:01.910 [main] Log - go to login page 
+[INFO ] 2021-07-09 15:54:01.946 [main] Log - invalid_emailAndPassword_LoginTest3 test is failed.
+[INFO ] 2021-07-09 15:54:02.082 [main] Log - valid_emailAndPassword_LoginTest test is starting.
+[INFO ] 2021-07-09 15:54:02.082 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 15:54:03.448 [main] Log - go to login page 
+[INFO ] 2021-07-09 15:54:03.604 [main] Log - valid_emailAndPassword_LoginTest test is skipped.
+[INFO ] 2021-07-09 15:54:03.606 [main] Log - valid_emailAndPassword_LoginTest test is starting.
+[INFO ] 2021-07-09 15:54:03.606 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 15:54:04.931 [main] Log - go to login page 
+[INFO ] 2021-07-09 15:54:04.961 [main] Log - valid_emailAndPassword_LoginTest test is failed.
+[INFO ] 2021-07-09 15:54:05.076 [main] Log - test ended...
+[INFO ] 2021-07-09 15:54:05.195 [main] Log - I am in onFinish method POMframeworkWithExtentReport
+[INFO ] 2021-07-09 17:07:34.903 [main] Log - I am in onStart method POMframeworkWithExtentReport
+[INFO ] 2021-07-09 17:07:35.008 [main] Log - test is starting ....
+[INFO ] 2021-07-09 17:10:18.516 [main] Log - I am in onStart method POMframeworkWithExtentReport
+[INFO ] 2021-07-09 17:10:18.593 [main] Log - test is starting ....
+[INFO ] 2021-07-09 17:10:23.496 [main] Log - invalid_emailAndPassword_LoginTest1 test is starting.
+[INFO ] 2021-07-09 17:10:24.132 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 17:10:25.852 [main] Log - go to login page 
+[INFO ] 2021-07-09 17:10:26.184 [main] Log - invalid_emailAndPassword_LoginTest1 test is skipped.
+[INFO ] 2021-07-09 17:10:26.196 [main] Log - invalid_emailAndPassword_LoginTest1 test is starting.
+[INFO ] 2021-07-09 17:10:26.197 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 17:10:27.523 [main] Log - go to login page 
+[INFO ] 2021-07-09 17:10:27.575 [main] Log - invalid_emailAndPassword_LoginTest1 test is failed.
+[INFO ] 2021-07-09 17:10:27.809 [main] Log - testPrint test is starting.
+[INFO ] 2021-07-09 17:10:27.825 [main] Log - testPrint test is succeed.
+[INFO ] 2021-07-09 17:10:27.830 [main] Log - invalid_emailAndPassword_LoginTest2 test is starting.
+[INFO ] 2021-07-09 17:10:27.831 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 17:10:29.075 [main] Log - go to login page 
+[INFO ] 2021-07-09 17:10:29.360 [main] Log - invalid_emailAndPassword_LoginTest2 test is skipped.
+[INFO ] 2021-07-09 17:10:29.364 [main] Log - invalid_emailAndPassword_LoginTest2 test is starting.
+[INFO ] 2021-07-09 17:10:29.365 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 17:10:30.622 [main] Log - go to login page 
+[INFO ] 2021-07-09 17:10:30.668 [main] Log - invalid_emailAndPassword_LoginTest2 test is failed.
+[INFO ] 2021-07-09 17:10:30.869 [main] Log - invalid_emailAndPassword_LoginTest3 test is starting.
+[INFO ] 2021-07-09 17:10:30.870 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 17:10:32.255 [main] Log - go to login page 
+[INFO ] 2021-07-09 17:10:32.510 [main] Log - invalid_emailAndPassword_LoginTest3 test is skipped.
+[INFO ] 2021-07-09 17:10:32.512 [main] Log - invalid_emailAndPassword_LoginTest3 test is starting.
+[INFO ] 2021-07-09 17:10:32.513 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 17:10:33.771 [main] Log - go to login page 
+[INFO ] 2021-07-09 17:10:33.838 [main] Log - invalid_emailAndPassword_LoginTest3 test is failed.
+[INFO ] 2021-07-09 17:10:34.043 [main] Log - valid_emailAndPassword_LoginTest test is starting.
+[INFO ] 2021-07-09 17:10:34.043 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 17:10:35.325 [main] Log - go to login page 
+[INFO ] 2021-07-09 17:10:35.558 [main] Log - valid_emailAndPassword_LoginTest test is skipped.
+[INFO ] 2021-07-09 17:10:35.561 [main] Log - valid_emailAndPassword_LoginTest test is starting.
+[INFO ] 2021-07-09 17:10:35.562 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 17:10:36.835 [main] Log - go to login page 
+[INFO ] 2021-07-09 17:10:36.882 [main] Log - valid_emailAndPassword_LoginTest test is failed.
+[INFO ] 2021-07-09 17:10:37.081 [main] Log - test ended...
+[INFO ] 2021-07-09 17:10:37.276 [main] Log - I am in onFinish method POMframeworkWithExtentReport
+[INFO ] 2021-07-09 23:27:32.008 [main] Log - I am in onStart method POMframeworkWithExtentReport
+[INFO ] 2021-07-09 23:27:32.058 [main] Log - test is starting ....
+[INFO ] 2021-07-09 23:27:35.750 [main] Log - invalid_emailAndPassword_LoginTest1 test is starting.
+[INFO ] 2021-07-09 23:27:36.207 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 23:27:39.954 [main] Log - go to login page 
+[INFO ] 2021-07-09 23:27:40.267 [main] Log - invalid_emailAndPassword_LoginTest1 test is skipped.
+[INFO ] 2021-07-09 23:27:40.272 [main] Log - invalid_emailAndPassword_LoginTest1 test is starting.
+[INFO ] 2021-07-09 23:27:40.272 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 23:27:41.554 [main] Log - go to login page 
+[INFO ] 2021-07-09 23:27:41.610 [main] Log - invalid_emailAndPassword_LoginTest1 test is failed.
+[INFO ] 2021-07-09 23:27:41.826 [main] Log - testPrint test is starting.
+[INFO ] 2021-07-09 23:27:41.841 [main] Log - testPrint test is succeed.
+[INFO ] 2021-07-09 23:27:41.841 [main] Log - invalid_emailAndPassword_LoginTest2 test is starting.
+[INFO ] 2021-07-09 23:27:41.841 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 23:27:43.143 [main] Log - go to login page 
+[INFO ] 2021-07-09 23:27:43.384 [main] Log - invalid_emailAndPassword_LoginTest2 test is skipped.
+[INFO ] 2021-07-09 23:27:43.393 [main] Log - invalid_emailAndPassword_LoginTest2 test is starting.
+[INFO ] 2021-07-09 23:27:43.394 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 23:27:44.626 [main] Log - go to login page 
+[INFO ] 2021-07-09 23:27:44.684 [main] Log - invalid_emailAndPassword_LoginTest2 test is failed.
+[INFO ] 2021-07-09 23:27:44.884 [main] Log - invalid_emailAndPassword_LoginTest3 test is starting.
+[INFO ] 2021-07-09 23:27:44.884 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 23:27:46.128 [main] Log - go to login page 
+[INFO ] 2021-07-09 23:27:46.393 [main] Log - invalid_emailAndPassword_LoginTest3 test is skipped.
+[INFO ] 2021-07-09 23:27:46.399 [main] Log - invalid_emailAndPassword_LoginTest3 test is starting.
+[INFO ] 2021-07-09 23:27:46.400 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 23:27:47.670 [main] Log - go to login page 
+[INFO ] 2021-07-09 23:27:47.725 [main] Log - invalid_emailAndPassword_LoginTest3 test is failed.
+[INFO ] 2021-07-09 23:27:47.943 [main] Log - valid_emailAndPassword_LoginTest test is starting.
+[INFO ] 2021-07-09 23:27:47.943 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 23:27:49.219 [main] Log - go to login page 
+[INFO ] 2021-07-09 23:27:49.487 [main] Log - valid_emailAndPassword_LoginTest test is skipped.
+[INFO ] 2021-07-09 23:27:49.496 [main] Log - valid_emailAndPassword_LoginTest test is starting.
+[INFO ] 2021-07-09 23:27:49.497 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 23:27:50.750 [main] Log - go to login page 
+[INFO ] 2021-07-09 23:27:50.803 [main] Log - valid_emailAndPassword_LoginTest test is failed.
+[INFO ] 2021-07-09 23:27:51.038 [main] Log - test ended...
+[INFO ] 2021-07-09 23:27:51.234 [main] Log - I am in onFinish method POMframeworkWithExtentReport
+[INFO ] 2021-07-09 23:33:16.204 [main] Log - I am in onStart method POMframeworkWithExtentReportCOPY-master
+[INFO ] 2021-07-09 23:33:16.266 [main] Log - test is starting ....
+[INFO ] 2021-07-09 23:33:19.946 [main] Log - invalid_emailAndPassword_LoginTest1 test is starting.
+[INFO ] 2021-07-09 23:33:20.591 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 23:33:22.281 [main] Log - go to login page 
+[INFO ] 2021-07-09 23:33:23.655 [main] Log - trying to log-in
+[INFO ] 2021-07-09 23:33:25.494 [main] Log - verifying login
+[INFO ] 2021-07-09 23:33:25.628 [main] Log - invalid_emailAndPassword_LoginTest1 test is succeed.
+[INFO ] 2021-07-09 23:33:25.636 [main] Log - testPrint test is starting.
+[INFO ] 2021-07-09 23:33:25.651 [main] Log - testPrint test is succeed.
+[INFO ] 2021-07-09 23:33:25.651 [main] Log - invalid_emailAndPassword_LoginTest2 test is starting.
+[INFO ] 2021-07-09 23:33:25.651 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 23:33:26.895 [main] Log - go to login page 
+[INFO ] 2021-07-09 23:33:28.240 [main] Log - trying to log-in
+[INFO ] 2021-07-09 23:33:29.952 [main] Log - verifying login
+[INFO ] 2021-07-09 23:33:30.062 [main] Log - invalid_emailAndPassword_LoginTest2 test is succeed.
+[INFO ] 2021-07-09 23:33:30.065 [main] Log - invalid_emailAndPassword_LoginTest3 test is starting.
+[INFO ] 2021-07-09 23:33:30.065 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 23:33:31.334 [main] Log - go to login page 
+[INFO ] 2021-07-09 23:33:32.698 [main] Log - trying to log-in
+[INFO ] 2021-07-09 23:33:34.537 [main] Log - verifying login
+[INFO ] 2021-07-09 23:33:34.643 [main] Log - invalid_emailAndPassword_LoginTest3 test is succeed.
+[INFO ] 2021-07-09 23:33:34.650 [main] Log - valid_emailAndPassword_LoginTest test is starting.
+[INFO ] 2021-07-09 23:33:34.650 [main] Log - go to opencart home page
+[INFO ] 2021-07-09 23:33:35.877 [main] Log - go to login page 
+[INFO ] 2021-07-09 23:33:37.232 [main] Log - trying to log-in
+[INFO ] 2021-07-09 23:33:40.523 [main] Log - verifying login
+[INFO ] 2021-07-09 23:33:40.628 [main] Log - valid_emailAndPassword_LoginTest test is succeed.
+[INFO ] 2021-07-09 23:33:40.628 [main] Log - test ended...
+[INFO ] 2021-07-09 23:33:40.761 [main] Log - I am in onFinish method POMframeworkWithExtentReportCOPY-master

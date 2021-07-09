@@ -1,0 +1,56 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 4, Errors: 0, Skipped: 4, Time elapsed: 21.728 s <<< FAILURE! - in TestSuite
+com.tests.LoginTest.invalid_emailAndPassword_LoginTest1[public void com.tests.LoginTest.invalid_emailAndPassword_LoginTest1(java.lang.reflect.Method)](2)  Time elapsed: 1.348 s  <<< FAILURE!
+org.openqa.selenium.ElementNotInteractableException: 
+element not interactable
+  (Session info: chrome=91.0.4472.124)
+Build info: version: '4.0.0-beta-4', revision: '29f46d02dd'
+System info: host: 'LAPTOP-EM2ICHMI', ip: '192.168.58.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0dd76b18cb865a0caa4b7c41cefdeae2, clickElement {id=c9bca12d-c124-443f-9306-048cba48cd8a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.19 (1bf021f248676..., userDataDir: C:\WINDOWS\TEMP\scoped_dir1...}, goog:chromeOptions: {debuggerAddress: localhost:52347}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52347/devtoo..., se:cdpVersion: 91.0.4472.124, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (0dd76b18cb865a0caa4b7c41cefdeae2)] -> xpath: //span[contains(text(),'My Account')]]
+Session ID: 0dd76b18cb865a0caa4b7c41cefdeae2
+	at com.tests.LoginTest.invalid_emailAndPassword_LoginTest1(LoginTest.java:14)
+
+com.tests.LoginTest.invalid_emailAndPassword_LoginTest2[public void com.tests.LoginTest.invalid_emailAndPassword_LoginTest2(java.lang.reflect.Method)](2)  Time elapsed: 1.49 s  <<< FAILURE!
+org.openqa.selenium.ElementNotInteractableException: 
+element not interactable
+  (Session info: chrome=91.0.4472.124)
+Build info: version: '4.0.0-beta-4', revision: '29f46d02dd'
+System info: host: 'LAPTOP-EM2ICHMI', ip: '192.168.58.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0dd76b18cb865a0caa4b7c41cefdeae2, clickElement {id=8c90c7bd-5642-43fb-b99e-d202f6c5925c}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.19 (1bf021f248676..., userDataDir: C:\WINDOWS\TEMP\scoped_dir1...}, goog:chromeOptions: {debuggerAddress: localhost:52347}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52347/devtoo..., se:cdpVersion: 91.0.4472.124, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (0dd76b18cb865a0caa4b7c41cefdeae2)] -> xpath: //span[contains(text(),'My Account')]]
+Session ID: 0dd76b18cb865a0caa4b7c41cefdeae2
+	at com.tests.LoginTest.invalid_emailAndPassword_LoginTest2(LoginTest.java:21)
+
+com.tests.LoginTest.invalid_emailAndPassword_LoginTest3[public void com.tests.LoginTest.invalid_emailAndPassword_LoginTest3(java.lang.reflect.Method)](2)  Time elapsed: 1.543 s  <<< FAILURE!
+org.openqa.selenium.ElementNotInteractableException: 
+element not interactable
+  (Session info: chrome=91.0.4472.124)
+Build info: version: '4.0.0-beta-4', revision: '29f46d02dd'
+System info: host: 'LAPTOP-EM2ICHMI', ip: '192.168.58.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0dd76b18cb865a0caa4b7c41cefdeae2, clickElement {id=a252a34b-4ec4-4a23-95b4-95185aa8a1bf}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.19 (1bf021f248676..., userDataDir: C:\WINDOWS\TEMP\scoped_dir1...}, goog:chromeOptions: {debuggerAddress: localhost:52347}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52347/devtoo..., se:cdpVersion: 91.0.4472.124, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (0dd76b18cb865a0caa4b7c41cefdeae2)] -> xpath: //span[contains(text(),'My Account')]]
+Session ID: 0dd76b18cb865a0caa4b7c41cefdeae2
+	at com.tests.LoginTest.invalid_emailAndPassword_LoginTest3(LoginTest.java:28)
+
+com.tests.LoginTest.valid_emailAndPassword_LoginTest[public void com.tests.LoginTest.valid_emailAndPassword_LoginTest(java.lang.reflect.Method)](2)  Time elapsed: 1.541 s  <<< FAILURE!
+org.openqa.selenium.ElementNotInteractableException: 
+element not interactable
+  (Session info: chrome=91.0.4472.124)
+Build info: version: '4.0.0-beta-4', revision: '29f46d02dd'
+System info: host: 'LAPTOP-EM2ICHMI', ip: '192.168.58.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0dd76b18cb865a0caa4b7c41cefdeae2, clickElement {id=1f174a2f-77c3-4b11-b71f-9c61b27dcf8d}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.19 (1bf021f248676..., userDataDir: C:\WINDOWS\TEMP\scoped_dir1...}, goog:chromeOptions: {debuggerAddress: localhost:52347}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52347/devtoo..., se:cdpVersion: 91.0.4472.124, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (0dd76b18cb865a0caa4b7c41cefdeae2)] -> xpath: //span[contains(text(),'My Account')]]
+Session ID: 0dd76b18cb865a0caa4b7c41cefdeae2
+	at com.tests.LoginTest.valid_emailAndPassword_LoginTest(LoginTest.java:34)
+
